@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/dal/ContactDAO.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>41</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/web/SearchCategory.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/entity/Blog.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/web/Right.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/db/DBContext.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/controller/DetailController.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/dal/BlogDAO.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/controller/ContactController.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/controller/SearchController.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/entity/Contact.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/dal/ContactDAO.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/dal/CategoryDAO.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/web/HomePage.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/src/java/controller/HomeController.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/web/Contact.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Ki%205/LAB%20WEB/MyBlogs/web/css/style.css</file>
+        </group>
+    </open-files>
+</project-private>
